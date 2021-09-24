@@ -2,12 +2,12 @@
 
 Dominic Meddick
 
-I am a South African living in London. I've been up to a fair amount in my short time in London trying to find my feet. And I've found them! They are directly below my ankles and finally facing in the direction I've been wanting to go for some time now. Software developing has always been something I've flirted with over the years but always thought I'd need a Computer Science degree to pursue it. Then I learnt about Makers and here I am! Studying with the hopes of becoming a junior developer. 
+I am a South African living in London. I've been up to a fair amount in my short time in London trying to find my feet. And I've found them! They are directly below my ankles and finally facing in the direction I've been wanting to go for some time now. Software developing has always been something I've flirted with over the years but always thought I'd need a Computer Science degree to pursue it. Then I learnt about Makers and here I am! I've finished the bootcamp and am now applying for roles with the hopes of becoming a junior developer. 
 
 **Presteigne Broadcast Hire (October 2019 – March 2021)**
 Audio Technician
 
-I worked in a team to build bespoke audio and communications systems for broadcast TV. We were told what the systems needed to do and from there we had to choose the right pieces of equipment to complete the puzzle. The main part of every job was problem solving, trail and error and working with all the departments in the company to get the jobs prepped and ready to go. 
+I worked in a team to build bespoke audio and communications systems for broadcast TV. Clients would give us requirements which were unique for each job and from there we had to break down the product to complete the puzzle. The job required problem solving, trail and error and working with all the departments in the company. 
 
 **Freelance (January 2019 - September 2019)**
 
@@ -42,8 +42,6 @@ Bachelor of Music Majoring in Music Technology
 Majors: Music Technology IV, Music Theory and Analysis IV, History of Western Music IV
 
 **Hobbies **
-
-I like playing and writing music. Here's a song, but beware! This link contains music written by me (my lovely girlfriend on vocals): https://open.spotify.com/track/7AW1lofFaoB6pjIul4ad2b?si=tYA5_4mqSdqRCJimKGM3dw
 
 I enjoy the outdoors. Hiking, camping, fishing. And exercise. I'm a regular gym goer and am partial to a bit of boxing and karate (Kimura Shukokai). 
 
