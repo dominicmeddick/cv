@@ -1,7 +1,5 @@
 # cv
 
-Dominic Meddick
-
 I am a South African living in London. I've been up to a fair amount in my short time in London trying to find my feet. And I've found them! They are directly below my ankles and finally facing in the direction I've been wanting to go for some time now. Software developing has always been something I've been interested in throughout the years but always thought I'd need a Computer Science degree to pursue it. Then I learnt about Makers and here I am! I've finished the bootcamp and am now applying for roles with the hopes of becoming a junior developer. 
 
 **Personal Profile**
