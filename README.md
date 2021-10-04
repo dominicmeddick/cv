@@ -25,11 +25,7 @@ Originally inspired by the idea of bringing people together via their common int
 **Presteigne Broadcast Hire (October 2019 – March 2021)**
 Audio Technician
 
-I worked in a team to build bespoke audio and communications systems for broadcast TV. Clients would give us requirements which were unique for each job and from there we had to break down the product to complete the puzzle. The job required problem solving, trail and error and working with all the departments in the company. 
-
-**Freelance (January 2019 - September 2019)**
-
-When I first got to London I was pretty much doing a new thing every week! I worked in a carpet store called 'Simply Floors' part time. I mainly did administration and helped cut carpet to size to go out to clients. Towards the end I started going out on jobs too! I worked in a few recording studios around London. I spent the most time at Brixton Recording Studios. I worked on a film set for a week at 'Light As Air' working as an apprentice for the electrical team. I worked for the New Moon in Putney as a freelance live sound engineer. The last thing worth a mention is EK Crew where I worked with florists for weddings and flower competitions like the Chelsea Flower Show Competition. 
+I worked in a team to build bespoke audio and communications systems for broadcast TV. Clients would give us requirements which were unique for each job and from there we had to break down the product to complete the puzzle. The job required problem solving, trail and error and working with all the departments in the company.  
 
 **Education**
 
