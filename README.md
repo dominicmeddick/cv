@@ -23,6 +23,7 @@ Originally inspired by the idea of bringing people together via their common int
 **Work Experience**
 
 **Presteigne Broadcast Hire (October 2019 – March 2021)**
+
 Audio Technician
 
 I worked in a team to build bespoke audio and communications systems for broadcast TV. Clients would give us requirements which were unique for each job and from there we had to break down the product to complete the puzzle. The job required problem solving, trail and error and working with all the departments in the company.  
