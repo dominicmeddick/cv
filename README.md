@@ -40,7 +40,11 @@ Majors: History of Western Music IV, Music Technology IV, Music Theory and Analy
 **Hobbies**
 
 Playing guitar - I really enjoy songwriting. I've been playing guitar since I was 10 years old. 
+
 Exercise - I enjoy weight training, HIIT and boxing. 
+
 Cooking - Learning how to cook Italian food the right way has been a passion of mine over the last few years. 
+
+Outdoors - I am an avid hiker. I hiked for 2 weeks across the Cederberg mountain range during my schooling years and have loved it ever since. 
 
 
