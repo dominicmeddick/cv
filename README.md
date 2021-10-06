@@ -7,7 +7,7 @@ A Makers Academy graduate, highly motivated and eager to start a career as a Ful
 [<img src="https://media.glassdoor.com/sqll/34865/linkedin-squarelogo-1559685522766.png" width="50">](https://www.linkedin.com/in/dominic-meddick-5a80487a/)[<img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="90">](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dominicmeddick@gmail.com)
 
 - I enjoy bouncing ideas off of people, problem solving and am adaptable. 
-- I'm able to keep a level head and continue to problem solve in high pressure situations. 
+- I am able to keep a level head and continue to problem solve in high pressure situations. 
 - I am a creative thinker and am able to make decisions when others are reluctent to. 
 - I am never satisfied with what I know and always want to expand my knowledge and skill set. 
 - I am inherently curious about the world and I intend to keep it that way!
