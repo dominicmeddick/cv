@@ -2,15 +2,11 @@
 
 **About Me** 👨🏻‍💻🎸
 
-A Makers Academy graduate, highly motivated and eager to start a career as a Full Stack Software Developer. I play guitar and write songs from time to time too.
+I’ve been combining my interests in music and software development ever since I was young, even pursuing a Music Technology degree at university. Writing music and writing code both, in their own ways, feel like solving a satisfying puzzle. 
+
+In my first career as an audio technician for live broadcasts, I enjoyed the high impact and collaborative environment that came with building and developing bespoke systems. However, in the past year I started itching for a new challenge and the opportunity to do more engineering work. Following the Makers Academy course, I’m now on the hunt for my first role as a Full Stack Software Developer!
 
 [<img src="https://media.glassdoor.com/sqll/34865/linkedin-squarelogo-1559685522766.png" width="50">](https://www.linkedin.com/in/dominic-meddick-5a80487a/)[<img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" width="90">](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dominicmeddick@gmail.com)
-
-- I enjoy bouncing ideas off of people, problem solving and am adaptable. 
-- I am able to keep a level head and continue to problem solve in high pressure situations. 
-- I am a creative thinker and am able to make decisions when others are reluctent to. 
-- I am never satisfied with what I know and always want to expand my knowledge and skill set. 
-- I am inherently curious about the world and I intend to keep it that way!
 
 **Tech stack**
 
@@ -37,8 +33,8 @@ A Makers Academy graduate, highly motivated and eager to start a career as a Ful
 #### Audio Technician
 
 - I worked in a team to build bespoke audio and communications systems for broadcast TV. 
-- Clients would give us requirements which were unique for each job and from there we had to break down the product to complete the puzzle. 
-- The job required problem solving, trail and error and working with all the departments in the company.  
+- Clients would give us requirements which were unique for each job and from there we had to break down the product to complete the puzzle. This improved my ability to work under pressure as we had very strict deadlines and often a limited time to complete the projects.
+- The job required problem solving, trail and error and working with all the departments in the company. 
 
 **Education**
 
